@@ -1,0 +1,105 @@
+Learn Linux Commands
+Learn Docker
+Learn Figma
+
+//material ui for dashboard
+https://github.com/minimal-ui-kit/material-kit-react
+
+Learn how to create EC2 instance
+
+Learn - inbound/outbound traffic
+how to edit inbound rule
+
+outbound rule - is normally used to deploy the security implementations kind apps
+
+--------------------------------------------------------------------------------
+AWS Service Setup:-
+
+1. Learn how to create EC2 instance
+
+	Learn - inbound/outbound traffic
+	how to edit inbound rule
+
+	outbound rule - is normally used to deploy the security implementations kind apps
+--------------------------------------------------------------------------------
+2. Jira Project URL - 
+https://lrccapstone.atlassian.net/jira/your-work
+
+--------------------------------------------------------------------------------
+docker app URL for windows - 
+https://docs.docker.com/desktop/install/windows-install/
+
+WSL installer for dockers - 
+1. URL :
+https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+2. Follow the step 5 in the same link
+3. Follow the step 6 and download and install Ubuntu and restart the computer
+
+
+Docker File - Devops
+https://github.com/UnpredictablePrashant/LearnDevOps/tree/main/MERN_in_Docker
+
+docker file extenssion will be installed in VS Code
+--------------------------------------------------------------------------------
+Setup Git repository :
+Frontend repository URL :
+https://github.com/UnpredictablePrashant/learnerReportCS_frontend
+
+Backend repository URL :
+https://github.com/UnpredictablePrashant/learnerReportCS_backend
+
+copy the path from <code>
+and clone the repository: command - 
+git clone <repository path>
+--------------------------------------------------------------------------------
+open command prompt
+*For Docker installation **
+** first, install wsl **
+** Second,install ubuntu and restart the computer"
+
+command - 
+docker login -> for login into the docker , done usually for the first time.
+
+
+
+create Dockerfile in vsCode
+
+docker build -t lrcbackened:1.0 . ->for building docker images
+docker images -> for viewing the images build on docker
+
+docker run -p 3000:3000 -d image_name:version   -> for making the image run on particular container at the assigned port
+              local:docker_container_port
+
+
+*Jenkins Installation *
+Jenkins version :2.361.3 :https://www.jenkins.io/download/thank-you-downloading-windows-installer-stable/
+****In order for Jenkins to work we have to install java version 17 and than install the jenkins
+***********************************************************************************
+==> Jenkins installation is done basically  for CI-CD pipeline.
+==> CI-CD => Continuous Integration and continuous delivery and deployment
+==> Jenkins helps us achieve automation by solving the problem of building docker images and building containers and all
+*********************************************************************************************************
+
+
+DockerHUB
+** docker tag image_name:latest repositry_name:latest   => for taging the images with the created repository
+** docker push repo_name:latest    => pushing the images to the docker hub
+
+
+********************************************************************************************************
+
+// Learner Landing  Page //
+Name, email, phone number,education,github_link,linkedin_linkSki,Program_name,Batch_number, profile picture, state, country, designation, companyName, years of experience, ctc, about,gender.
+
+//Skills : skill 1 -60%,skill 2- 40%, skill 3- 75%  Overall Skill - 65% badges
+
+// Learner Attendance : Overall Class Attendance percentage,Overall Assignment submission percentage , Capstone Attendance.
+// Learner assignment : Assignment 1 : 50%, Assignment 2: 20% ,Assignment 3 : absent  
+//Placement Stats :(in table format) :- Company Applied,JD(download option/or pop up),skills required, Progress in Company round,Status-(not started,in-progress,accepted,rejected),rejection reason
+//Employbility test Score : total no. of test given , (in table form :- test_name, test_score ,test_related_insights)
+// Capstone :Capstone_name, Capstone_type(industry/academic), Capstone_start_date,Capstone_due_date,Capstone_performance
+// Notes : Notes_from_faculty(faculy_name), Notes_from_career_service
+
+// Frontend UI features : 
+
+  
